@@ -1,7 +1,7 @@
 name: 'Takako Ainsworth, LCSW'
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.25245
+layout_spectrum: 0.78436
+typography_spectrum: 0.50213
 title: Life in Harmony
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c7c3c4'
     - '#1b92e3'
     - '#c99d3e'
-  brandStrength: 0.125
+  brandStrength: 0.4375
   lightness: 0.5
-  saturation: 0.5625
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
