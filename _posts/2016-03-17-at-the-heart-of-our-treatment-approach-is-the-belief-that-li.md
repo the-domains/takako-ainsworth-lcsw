@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Takako Ainsworth is a licensed Clinical Social Worker with many years of experience working with non-profit organizations and helping individuals with terminal illness and their families.
-datePublished: '2016-03-17T02:15:11.282Z'
-dateModified: '2016-03-17T02:14:49.123Z'
-title: 'At the heart of our treatment approach is the belief that life must be in harmony to maintain happiness. We assist clients to regain that balance within their relationships and their surroundings. We offer clinical therapeutic services for the San Diego community, specializing in individual and group counseling. '
+datePublished: '2016-03-17T02:16:26.034Z'
+dateModified: '2016-03-17T02:15:48.294Z'
+title: 'At the heart of our treatment approach is the belief that life must be in harmony to maintain happiness. We assist clients to regain that balance within their relationships and their surroundings. We offer clinical therapeutic services for the San Diego community, specializing in individual and group counseling.'
 author: []
+sourcePath: _posts/2016-03-17-at-the-heart-of-our-treatment-approach-is-the-belief-that-li.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-at-the-heart-of-our-treatment-approach-is-the-belief-that-li.md
-published: true
 url: at-the-heart-of-our-treatment-approach-is-the-belief-that-li/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Our Services and Treatment Specialties
