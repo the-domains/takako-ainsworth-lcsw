@@ -3,26 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'We offer clinical therapeutic services for the San Francisco community, specializing in individual, couples and group counseling.'
-datePublished: '2016-03-16T05:07:30.599Z'
-dateModified: '2016-03-16T05:07:19.122Z'
-title: Life in Harmony
+datePublished: '2016-03-17T02:44:09.529Z'
+dateModified: '2016-03-17T02:18:04.048Z'
+title: 'Takako Ainsworth, LCSW'
 author: []
+sourcePath: _posts/2016-03-16-life-in-harmony.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-life-in-harmony.md
-published: true
 url: life-in-harmony/index.html
 _type: Article
 
 ---
-Life in Harmony
+Takako Ainsworth, LCSW
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f2750a8-7099-491d-8cb9-efe6d287f217.jpg)
 
 **We offer clinical therapeutic services for the San Francisco community, specializing in individual, couples and group counseling.**
