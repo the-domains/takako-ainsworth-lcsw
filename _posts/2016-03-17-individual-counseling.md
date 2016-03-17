@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "\_“Though we can’t always see it at the time, if we look upon events with some perspective, we see things always happen for our best interest. We are always guided in a way better than we know ourselves”"
-datePublished: '2016-03-17T14:40:27.730Z'
-dateModified: '2016-03-17T14:40:12.452Z'
+datePublished: '2016-03-17T14:41:05.188Z'
+dateModified: '2016-03-17T14:40:51.079Z'
 title: Individual Counseling
 author: []
+sourcePath: _posts/2016-03-17-individual-counseling.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-individual-counseling.md
-published: true
 url: individual-counseling/index.html
 _type: Article
 
