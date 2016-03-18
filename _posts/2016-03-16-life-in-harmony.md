@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'We offer clinical therapeutic services for the San Francisco community, specializing in individual, couples and group counseling.'
-datePublished: '2016-03-17T04:51:26.782Z'
-dateModified: '2016-03-17T04:51:25.818Z'
+datePublished: '2016-03-18T02:51:47.809Z'
+dateModified: '2016-03-18T02:49:52.643Z'
 title: Life in Harmony
 author: []
 sourcePath: _posts/2016-03-16-life-in-harmony.md
@@ -34,3 +34,5 @@ Life lessons come to all of us equally, though some are more difficult than othe
 As many find themselves in a place of dissonance, through loss or difficulty, our services strive to help find that needed balance. Clients typically seek therapeutic expertise for support related to many personal issues such as divorce, coping with chronic illness as well as relocation adjustment for individuals, couples and families.
 
 We will help you to develop an individualized plan of care and to set goals. Each plan is uniquely designed for your specific needs.
+
+**Insurances**
