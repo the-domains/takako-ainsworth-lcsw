@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T02:36:54.233Z'
-dateModified: '2016-03-18T02:36:52.299Z'
+datePublished: '2016-03-18T02:37:24.433Z'
+dateModified: '2016-03-18T02:37:03.209Z'
 title: Sandplay Therapy
 author: []
+sourcePath: _posts/2016-03-18-sandplay-therapy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-sandplay-therapy.md
-published: true
 url: sandplay-therapy/index.html
 _type: Article
 
