@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'We offer clinical therapeutic services for the San Francisco community, specializing in individual, couples and group counseling.'
-datePublished: '2016-03-19T03:57:46.254Z'
-dateModified: '2016-03-19T03:57:42.955Z'
+description: 'Offering clinical therapeutic services for the San Francisco community, specializing in individual, couples and group counseling with a focus on loss and grief.'
+datePublished: '2016-03-19T15:48:30.777Z'
+dateModified: '2016-03-19T15:48:24.732Z'
 title: Life in Harmony
 author: []
 sourcePath: _posts/2016-03-16-life-in-harmony.md
