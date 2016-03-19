@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We are located in lovely San Francisco, California, We are blessed to enjoy such a wonderful location.'
-datePublished: '2016-03-18T02:46:56.469Z'
-dateModified: '2016-03-18T02:45:20.565Z'
+datePublished: '2016-03-19T01:33:32.979Z'
+dateModified: '2016-03-19T01:32:57.327Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-we-are-located-in-lovely-san-francisco-california-we-are-b.md
@@ -27,4 +27,6 @@ _type: Article
 
 We are located in lovely San Francisco, California, We are blessed to enjoy such a wonderful location.
 
-_"I feel that a location_near the ocean _can create a perfect place to reflect, regain balance and to become inspired by new possibility. I have a personal affinity for the sea and chose my sand-dollar to represent this practice, on the shore of the Pacific Ocean. I invite you to come and join me here to do our best work together."_**Takako**
+_"I feel that a location _near the ocean _can create a perfect place to reflect, regain balance and to become inspired by new possibility. I have a personal affinity for the sea and chose my sand-dollar to represent this practice, on the shore of the Pacific Ocean. I invite you to come and join me here to do our best work together."_**Takako**
+
+**Two convenient office locations**
