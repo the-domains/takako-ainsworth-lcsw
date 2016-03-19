@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'At the heart of our treatment approach is the belief that life must be in harmony to maintain happiness. We assist clients to regain that balance within their relationships and their surroundings. We offer clinical therapeutic services for the San Francisco community, specializing in individual and group counseling.'
-datePublished: '2016-03-19T01:33:48.101Z'
-dateModified: '2016-03-19T01:32:00.499Z'
+datePublished: '2016-03-19T03:53:06.599Z'
+dateModified: '2016-03-19T03:52:54.951Z'
 title: 'Takako Ainsworth, LCSW'
 author: []
 sourcePath: _posts/2016-03-17-at-the-heart-of-our-treatment-approach-is-the-belief-that-li.md
