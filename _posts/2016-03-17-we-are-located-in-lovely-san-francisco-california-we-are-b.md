@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We are located in lovely San Francisco, California, We are blessed to enjoy such a wonderful location.'
-datePublished: '2016-03-22T01:22:29.661Z'
-dateModified: '2016-03-22T01:22:26.213Z'
-title: Our Office
+datePublished: '2016-03-22T01:23:03.888Z'
+dateModified: '2016-03-22T01:22:58.964Z'
+title: Office
 author: []
 sourcePath: _posts/2016-03-17-we-are-located-in-lovely-san-francisco-california-we-are-b.md
 published: true
@@ -22,7 +22,7 @@ url: we-are-located-in-lovely-san-francisco-california-we-are-b/index.html
 _type: Article
 
 ---
-# Our Office
+# Office
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee46604a-e3c6-4ce0-bdc8-ce1138e447b6.jpg)
 
 We are located in lovely San Francisco, California, We are blessed to enjoy such a wonderful location.
