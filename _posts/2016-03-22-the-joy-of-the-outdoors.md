@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Today I had the opportunity to reflect on a wonderful trip recently to a farm up in Fresno. I was amazed by the simple and relaxed pace of the cows in the pasture on the ranch. There they were, with everything they needed, food, water, shade and friendship and they seemed very content.\_"
-datePublished: '2016-03-22T01:15:30.699Z'
-dateModified: '2016-03-22T01:15:22.130Z'
+datePublished: '2016-03-22T01:15:50.241Z'
+dateModified: '2016-03-22T01:15:34.948Z'
 title: The Joy of the Outdoors
 author: []
+sourcePath: _posts/2016-03-22-the-joy-of-the-outdoors.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-the-joy-of-the-outdoors.md
-published: true
 url: the-joy-of-the-outdoors/index.html
 _type: Article
 
