@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'We are located in lovely San Francisco, California, We are blessed to enjoy such a wonderful location.'
-datePublished: '2016-03-22T01:23:03.888Z'
-dateModified: '2016-03-22T01:22:58.964Z'
+datePublished: '2016-03-25T05:46:28.261Z'
+dateModified: '2016-03-25T05:46:08.638Z'
 title: Office
 author: []
 sourcePath: _posts/2016-03-17-we-are-located-in-lovely-san-francisco-california-we-are-b.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: we-are-located-in-lovely-san-francisco-california-we-are-b/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Office
