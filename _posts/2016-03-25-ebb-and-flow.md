@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Ocean waves are beautiful...calm and soothing. \_They can be rough and harsh sometimes. \_Sometimes we are afraid of waves because we are not sure whether if next waves are big and harsh. \_Life has certainly ebb and flow like ocean waves. \_We are forced to go under the waves...close our eyes. \_Then, we hear our inner voice....trust yourself and trust within."
-datePublished: '2016-04-01T01:59:48.681Z'
-dateModified: '2016-04-01T01:59:48.278Z'
+datePublished: '2016-04-01T02:00:59.660Z'
+dateModified: '2016-04-01T02:00:57.324Z'
 title: Ebb and Flow
 author: []
 sourcePath: _posts/2016-03-25-ebb-and-flow.md
