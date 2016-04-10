@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Conveniently located in the central and lovely area of Pacific Heights in San Francisco, California, the location offers easy access and close public transportation.\_"
-datePublished: '2016-04-10T18:22:58.731Z'
-dateModified: '2016-04-10T18:22:54.036Z'
+datePublished: '2016-04-10T18:26:30.490Z'
+dateModified: '2016-04-10T18:26:16.252Z'
 title: Office
 author: []
 sourcePath: _posts/2016-03-17-we-are-located-in-lovely-san-francisco-california-we-are-b.md
@@ -27,6 +27,8 @@ _type: WebPage
 
 Conveniently located in the central and lovely area of Pacific Heights in San Francisco, California, the location offers easy access and close public transportation. 
 
-_"I love living in San Francisco. It is close to the ocean and San Francisco bay. I feel an affinity with the ocean as it mimics our own lives, with its ebb and flow. This building, called Healing Arts"_**Takako**
+_"I love living in San Francisco. It is close to the ocean and San Francisco bay. I feel an affinity with the ocean as it mimics our own lives, with its ebb and flow. This building, called the Healing Arts building has a host of healthcare professionals and healing practioners. I am happy to be a part of this community. I invite you to come and join me here to do our best work together__.__"_**Takako**
 
-**Two convenient office locations**
+1801 Bush Street, \#207
+
+San Francisco, CA 94109
