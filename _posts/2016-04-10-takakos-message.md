@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Understanding the ebb and flow of life.
-datePublished: '2016-04-10T18:10:45.288Z'
-dateModified: '2016-04-10T18:10:13.912Z'
+description: "Understanding the ebb and flow of life. \_"
+datePublished: '2016-04-10T18:26:38.136Z'
+dateModified: '2016-04-10T18:26:20.520Z'
 title: "Takako's Message"
 author: []
 sourcePath: _posts/2016-04-10-takakos-message.md
