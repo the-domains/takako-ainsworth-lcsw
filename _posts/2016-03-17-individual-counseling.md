@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "\_“Though we can’t always see it at the time, if we look upon events with some perspective, we see things always happen for our best interest. We are always guided in a way better than we know ourselves”"
-datePublished: '2016-03-18T02:46:17.386Z'
-dateModified: '2016-03-18T02:45:07.262Z'
+datePublished: '2016-04-10T17:46:16.863Z'
+dateModified: '2016-04-10T17:42:51.574Z'
 title: Individual Counseling
 author: []
 sourcePath: _posts/2016-03-17-individual-counseling.md
@@ -25,8 +25,10 @@ _type: Article
 # Individual Counseling
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c7773a-23db-44ac-8b0f-8837cece2c60.png)
 
-"Though we can't always see it at the time, if we look upon events with some perspective, we see things always happen for our best interest. We are always guided in a way better than we know ourselves"
+"My speech is imperfect. Not because I want to shine with words, but out of the impossibility of finding those words, I speak in images. With nothing else I can express the words from the depths."
 
-> _by Friedrich Schiller (German Poet) Inspirational Quotes"_
+_by C.G Jung (The Red Book)_
 
-Life is filled with experiences...with highs and lows, ebbs and flows, like ocean waves. Sometimes we feel_"Why me?" "How did it happen to me?"_We feel sadness, anger, disappointment, loneliness...sometimes we feel like "no one understands me what I am going through...." Life events such as divorce, separation, illness, layoff, bankruptcy come to us without warning. Or, getting into a new relationship, a new job or having children could add stress in your life even though they are positive factors. It is natural to struggle with adjustment and coping with stress factors in your life. Individual counseling assists you to reevaluate your strength and regain hope in your life.
+Life is filled with images and experiences...filled with both highs and lows, ebbs and flows, like the image of the ocean when it touches the shore...fleeting and always changing. Change often brings challenge. With that change we may ask_"Why me?" "How did it happen to me?" _Such questions can cause anger or disappointment or loneliness...and one may feel that no one can understand what it's like to experience what we feel. 
+
+Life changing events such as death, divorce, separation, illness, layoff, bankruptcy may come to us without warning. On the other hand new and exciting things like starting a new relationship, or embarking on a new job or having children are wonderful. They too can add stress in your life that may be difficult to manage alone. It is a natural process to struggle adjusting to new stress factors in your life. Individual counseling can help you to reevaluate your strength and regain hope in your life, bringing your life into balance and into harmony.
