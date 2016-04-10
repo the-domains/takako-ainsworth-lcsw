@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'We are located in lovely San Francisco, California, We are blessed to enjoy such a wonderful location.'
-datePublished: '2016-04-10T18:22:47.717Z'
-dateModified: '2016-04-10T18:21:18.520Z'
+description: "Conveniently located in the central and lovely area of Pacific Heights in San Francisco, California, the location offers easy access and close public transportation.\_"
+datePublished: '2016-04-10T18:22:58.731Z'
+dateModified: '2016-04-10T18:22:54.036Z'
 title: Office
 author: []
 sourcePath: _posts/2016-03-17-we-are-located-in-lovely-san-francisco-california-we-are-b.md
