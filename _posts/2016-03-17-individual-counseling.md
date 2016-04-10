@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "\_“Though we can’t always see it at the time, if we look upon events with some perspective, we see things always happen for our best interest. We are always guided in a way better than we know ourselves”"
-datePublished: '2016-04-10T17:46:16.863Z'
-dateModified: '2016-04-10T17:42:51.574Z'
+datePublished: '2016-04-10T17:46:39.773Z'
+dateModified: '2016-04-10T17:46:30.559Z'
 title: Individual Counseling
 author: []
 sourcePath: _posts/2016-03-17-individual-counseling.md
