@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "\_“Though we can’t always see it at the time, if we look upon events with some perspective, we see things always happen for our best interest. We are always guided in a way better than we know ourselves”"
-datePublished: '2016-04-10T17:46:39.773Z'
-dateModified: '2016-04-10T17:46:30.559Z'
+description: "\_“My speech is imperfect. Not because I want to shine with words, but out of the impossibility of finding those words, I speak in images. With nothing else I can express the words from the depths.”"
+datePublished: '2016-04-10T17:48:43.607Z'
+dateModified: '2016-04-10T17:48:31.048Z'
 title: Individual Counseling
 author: []
 sourcePath: _posts/2016-03-17-individual-counseling.md
@@ -25,9 +25,9 @@ _type: Article
 # Individual Counseling
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c7773a-23db-44ac-8b0f-8837cece2c60.png)
 
-"My speech is imperfect. Not because I want to shine with words, but out of the impossibility of finding those words, I speak in images. With nothing else I can express the words from the depths."
+# "My speech is imperfect. Not because I want to shine with words, but out of the impossibility of finding those words, I speak in images. With nothing else I can express the words from the depths."
 
-_by C.G Jung (The Red Book)_
+_**by C.G Jung (The Red Book)**_
 
 Life is filled with images and experiences...filled with both highs and lows, ebbs and flows, like the image of the ocean when it touches the shore...fleeting and always changing. Change often brings challenge. With that change we may ask_"Why me?" "How did it happen to me?" _Such questions can cause anger or disappointment or loneliness...and one may feel that no one can understand what it's like to experience what we feel. 
 
