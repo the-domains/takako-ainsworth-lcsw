@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Unexpected event in life & Grief'
-datePublished: '2016-05-02T14:50:53.678Z'
-dateModified: '2016-04-29T21:44:11.950Z'
+datePublished: '2016-05-02T14:51:26.919Z'
+dateModified: '2016-05-02T14:51:01.039Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-unexpected-event-in-life-and-grief.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-unexpected-event-in-life-and-grief.md
-published: true
 url: unexpected-event-in-life-and-grief/index.html
 _type: Article
 
